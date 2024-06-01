@@ -17,7 +17,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  String kata = "ahda";
+  String kata = "testing bro";
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
